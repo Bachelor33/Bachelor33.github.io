@@ -1,0 +1,100 @@
+
+body {
+    background-color: #E5E5E5;
+    font-family: 'Rubik', sans-serif;
+    color: #2E384D;
+
+}
+
+.row {
+    overflow: hidden;
+}
+
+.column {
+    float: left;
+    height: 70px;
+    width: 10%;
+    text-decoration: none;
+}
+
+
+#prosjekt {
+    text-align: right;
+    padding-top: 3%;
+
+}
+
+#oss {
+    padding-top: 3%;
+    text-align: center;
+}
+
+
+#tittel {
+    width: 77%;
+    text-align: left;
+    padding-left: 3%;
+    padding-top: 0.5%
+
+}
+
+a {
+    color: #2E384D;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #4e5b78;
+}
+
+
+.filer {
+    width: 70%;
+    margin: 10% auto auto;
+    overflow: hidden;
+}
+
+.bilder {
+    width: 70%;
+    margin: 5% auto auto;
+    overflow: hidden;
+}
+
+.filertekst {
+    width: 70%;
+    margin: auto auto;
+    overflow: hidden;
+}
+
+.fil {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+.toriltanja {
+    width: 50%;
+    float: left;
+    text-align: center;
+
+}
+
+.bildetekst {
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-top: 5%;
+
+}
+
+#bilde {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.material-icons { font-size: 60px;}
+
+
